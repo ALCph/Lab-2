@@ -58,9 +58,9 @@ Distance10 = Speed * 10
 Distance15 = Speed * 15
 
 #The actual results. I gotta say, I really enjoy using f strings. It makes this much easier to learn.
-print(f'The distance the car will travel in 6 hours is: {distance6} miles')
-print(f'The distance the car will travel in 10 hours is: {distance10} miles')
-print(f'The distance the car will travel in 15 hours is: {distance15} miles')
+print(f'The distance the car will travel in 6 hours is: {Distance6} miles')
+print(f'The distance the car will travel in 10 hours is: {Distance10} miles')
+print(f'The distance the car will travel in 15 hours is: {Distance15} miles')
 #---------------------------------------------------------------------------------------
 
 #6.)
